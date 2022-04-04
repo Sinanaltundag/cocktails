@@ -1,0 +1,10 @@
+.container{
+    width: 500px;
+    margin: 50px auto;
+    text-align: center;
+    
+}
+h2,p{
+    margin-bottom:1rem;
+    
+}
